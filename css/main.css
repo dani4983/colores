@@ -51,3 +51,11 @@ input{
     display: none;
 }
 
+.imaginacion{
+    margin: 15px 150px;
+}
+@media(max-width: 768px){
+    .imaginacion{
+        margin: 0;
+    }
+}
